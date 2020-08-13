@@ -1,6 +1,7 @@
 package AutomationPackage;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 
 public class ListOpt {
 
@@ -13,6 +14,10 @@ public class ListOpt {
 		arr.add(1);
 		arr.add(true);
 		System.out.println(arr);
+		
+		HashSet<Integer> arr2=new HashSet<>();
+		arr2.add(1);
+		arr2.add(1);
 		
 	}
 

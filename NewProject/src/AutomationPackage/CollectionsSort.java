@@ -35,6 +35,12 @@ public class CollectionsSort {
 		while(itr2.hasNext()){
 			System.out.println(itr2.next());
 		}
+		ArrayList lst=new ArrayList<>();
+		lst.add(1);
+		lst.add("a");
+		for(int i=0;i<lst.size();i++) {
+			System.out.println(lst.get(i));
+		}
 	}
 
 }

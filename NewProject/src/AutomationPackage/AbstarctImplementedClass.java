@@ -4,7 +4,9 @@ public class AbstarctImplementedClass extends AbstractClassExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		AbstarctImplementedClass as=new AbstarctImplementedClass();
+		as.example2();
+ 
 	}
 
 	@Override
