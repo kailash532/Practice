@@ -1,4 +1,4 @@
-package AutomationPackage;
+/*package AutomationPackage;
 
 import java.io.File;
 import java.net.MalformedURLException;
@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 public class Grid_Setup {
 	
 	
- /*@Before
+ @Before
 	public  void setUp() throws MalformedURLException, InterruptedException{
 	 System.setProperty("webdriver.chrome.driver", "C:\\Chromedriver\\chromedriver.exe");
  		String nodeurl = "http://192.168.56.1:4444/wb/hub";
@@ -25,7 +25,7 @@ public class Grid_Setup {
  		System.out.println("launching chrome browser"); 
  		
 	      
-	}*/
+	}
  
  		 @Test
  		  public void verifyHomepageTitle() throws InterruptedException, MalformedURLException{
@@ -48,4 +48,4 @@ public class Grid_Setup {
  			
  		 
  	
-}
+}*/
