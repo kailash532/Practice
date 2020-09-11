@@ -1,0 +1,199 @@
+{
+	"RowHeaders": [
+		[
+			{
+				"Label": "28 Revenue",
+				"DimensionName": "Account",
+				"MemberId": "1385"
+			}
+		],
+		[
+			{
+				"Label": "28 Expense",
+				"DimensionName": "Account",
+				"MemberId": "1384"
+			}
+		],
+		[
+			{
+				"Label": "28 Asset",
+				"DimensionName": "Account",
+				"MemberId": "1389"
+			}
+		],
+		[
+			{
+				"Label": "28 Liability",
+				"DimensionName": "Account",
+				"MemberId": "1391"
+			}
+		],
+		[
+			{
+				"Label": "28 Equity",
+				"DimensionName": "Account",
+				"MemberId": "1394"
+			}
+		]
+	],
+	"ColumnHeaders": [
+		[
+			{
+				"Label": "Nov-14",
+				"DimensionName": "Time",
+				"MemberId": "359"
+			}
+		],
+		[
+			{
+				"Label": "Dec-14",
+				"DimensionName": "Time",
+				"MemberId": "360"
+			}
+		],
+		[
+			{
+				"Label": "Jan-15",
+				"DimensionName": "Time",
+				"MemberId": "361"
+			}
+		],
+		[
+			{
+				"Label": "Feb-15",
+				"DimensionName": "Time",
+				"MemberId": "362"
+			}
+		],
+		[
+			{
+				"Label": "Mar-15",
+				"DimensionName": "Time",
+				"MemberId": "363"
+			}
+		],
+		[
+			{
+				"Label": "Apr-15",
+				"DimensionName": "Time",
+				"MemberId": "364"
+			}
+		],
+		[
+			{
+				"Label": "May-15",
+				"DimensionName": "Time",
+				"MemberId": "365"
+			}
+		],
+		[
+			{
+				"Label": "Jun-15",
+				"DimensionName": "Time",
+				"MemberId": "366"
+			}
+		],
+		[
+			{
+				"Label": "Jul-15",
+				"DimensionName": "Time",
+				"MemberId": "367"
+			}
+		],
+		[
+			{
+				"Label": "Aug-15",
+				"DimensionName": "Time",
+				"MemberId": "368"
+			}
+		],
+		[
+			{
+				"Label": "Sep-15",
+				"DimensionName": "Time",
+				"MemberId": "369"
+			}
+		],
+		[
+			{
+				"Label": "Oct-15",
+				"DimensionName": "Time",
+				"MemberId": "370"
+			}
+		]
+	],
+	"Data": [
+		[
+			"2000",
+			"2200",
+			"2400",
+			"2600",
+			"2800",
+			"3000",
+			"3200",
+			"3400",
+			"3600",
+			"3800",
+			"4000",
+			"4200"
+		],
+		[
+			"1000",
+			"1100",
+			"1200",
+			"1300",
+			"1400",
+			"1500",
+			"1600",
+			"1700",
+			"1800",
+			"1900",
+			"2000",
+			"2100"
+		],
+		[
+			"12000",
+			"13000",
+			"14000",
+			"15000",
+			"16000",
+			"17000",
+			"18000",
+			"19000",
+			"20000",
+			"21000",
+			"22000",
+			"23000"
+		],
+		[
+			"8000",
+			"8400",
+			"8800",
+			"9200",
+			"9600",
+			"10000",
+			"10400",
+			"10800",
+			"11200",
+			"11600",
+			"12000",
+			"12400"
+		],
+		[
+			"3000",
+			"3440",
+			"3880",
+			"4320",
+			"4760",
+			"5200",
+			"5640",
+			"6080",
+			"6520",
+			"6960",
+			"7400",
+			"7840"
+		]
+	],
+	"Status": "Success",
+	"StatusMessage": ""
+}

@@ -40,7 +40,7 @@ public class DayExample {
 		
 			temp=dayposition+num;
 		
-		if(temp>0 && temp<7) {
+		if(temp>0 && temp<=7) {
 			
 			
 			day=getKeyvalue(days, temp);
@@ -60,7 +60,7 @@ public class DayExample {
 		// TODO Auto-generated method stub
 		DayExample dt=new DayExample();
 		
-		System.out.println(dt.dayOfTheWeek("Sat", 1));
+		System.out.println(dt.dayOfTheWeek("Sat", 23));
 	}
 
 }
